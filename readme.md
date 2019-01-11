@@ -1,4 +1,6 @@
-# choo
+Visit me on [Github](https://github.com/rook2pawn)!
+
+# choo / react
 
 ## choo-examples
 
@@ -6,6 +8,7 @@
 |----|----|
 |[choo-examples](/choo-examples)| [repo](https://github.com/rook2pawn/choo-examples) |
 
+# other
 
 ## easing
 
