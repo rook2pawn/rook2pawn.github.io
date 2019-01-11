@@ -28,3 +28,7 @@ Visit me on [Github](https://github.com/rook2pawn)!
 |demo|
 |----|
 |[click!](http://curlpaste.com:8081/)|
+
+## EventBrite
+
+[EventBrite - The Payoff of switching to Eventbrite calculator - with Salesforce integration](https://www.eventbrite.com/blog/academy/event-roi-calculator/)
