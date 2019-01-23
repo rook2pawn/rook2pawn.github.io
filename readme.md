@@ -17,6 +17,13 @@ Visit me on [Github](https://github.com/rook2pawn)!
 |[easing](/node-easing) | [repo](https://github.com/rook2pawn/node-easing) |
 
 
+## timer styles nanocomponent
+
+|demo|
+|----|
+|[click!](http://curlpaste.com:8082/)|
+
+
 ## my chess intro
 
 |demo|
